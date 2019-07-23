@@ -1,6 +1,6 @@
 # Screenshots
 
-![Home page screenshot](/screenshots/Capture.PNG)
+![Home page screenshot](/screenshots/Capture.JPG)
 ---
-![Home screenshot](/screenshots/Capture2.PNG)
+![Home screenshot](/screenshots/Capture2.JPG)
 
